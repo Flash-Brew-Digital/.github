@@ -27,18 +27,15 @@ We like our builds like we like our coffee: strong, smooth, and ready fast.
 - **Async-first communication** with weekly check-ins and Slack updates
 - **Global reach** from Melbourne, working with clients everywhere
 
-### Open source
+### Open source projects
 
-We create and maintain open source tools we think others might find useful.
-
-**[Form Attribution](https://github.com/Flash-Brew-Digital/form-attribution)**
-A lightweight, zero-dependency script that captures UTM parameters, referrer data, and ad click IDs, then passes them to your forms as hidden fields. Privacy-respecting, XSS-safe, and works with dynamically loaded forms.
-
-**[Create Webflow Extension](https://github.com/Flash-Brew-Digital/create-webflow-extension)**
-A CLI tool to scaffold new Webflow Designer Extension projects. Run `npx create-webflow-extension@latest` and follow the prompts.
-
-**[Webflow Extension Starter](https://github.com/Flash-Brew-Digital/webflow-extension-starter)**
-A minimal starter template for building Webflow Designer Extensions with React, TypeScript, and Rspack. Includes custom hooks for common Designer API patterns.
+- [Build Skill](https://github.com/Flash-Brew-Digital/build-skill): Scaffold AI agent skills quickly with the Build Skill CLI.
+- [Validate Skill](https://github.com/Flash-Brew-Digital/validate-skill): Validate a SKILL.md against the Agent Skills specification.
+- [Resend - AI SDK Tools](https://github.com/Flash-Brew-Digital/resend-ai-sdk): AI SDK compatible tools for Resend.
+- [Vercel Blob - AI SDK Tools](https://github.com/Flash-Brew-Digital/vercel-blob-ai-sdk): AI SDK compatible tools for Vercel Blob.
+- [Create Webflow Extension](https://github.com/Flash-Brew-Digital/create-webflow-extension): Scaffold a new Webflow Designer Extension project with a built-in template.
+- [Webflow Extension Starter](https://github.com/Flash-Brew-Digital/webflow-extension-starter): Starter template for building Webflow Designer Extensions.
+- [Form Attribution](https://github.com/Flash-Brew-Digital/form-attribution): Automatically capture and persist marketing attribution parameters.
 
 ### Let's brew something up
 
