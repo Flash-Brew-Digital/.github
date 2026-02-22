@@ -29,6 +29,7 @@ We like our builds like we like our coffee: strong, smooth, and ready fast.
 
 ### Open source projects
 
+- [Memberstack Agent Skills](https://github.com/flash-Brew-Digital/memberstack-skills): Agent skills for Memberstack.
 - [Memberstack CLI](https://memberstack-cli.flashbrew.digital): Manage your Memberstack account from your terminal.
 - [AI SDK Library](https://aisdklibrary.com): Curated collection of pre-built agents and tools for the Vercel AI SDK.
 - [Build Skill](https://github.com/Flash-Brew-Digital/build-skill): Scaffold AI agent skills quickly with the Build Skill CLI.
